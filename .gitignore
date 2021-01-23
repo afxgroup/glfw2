@@ -1,0 +1,16 @@
+example/boing     
+example/pong3d
+example/triangle
+example/mipmaps
+example/mthello
+example/gears
+example/keytest
+example/wave
+example/particles
+example/splitview
+example/listmodes
+example/mtbench
+lib/amigaos/*.o
+lib/*o
+*.o
+
